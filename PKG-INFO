@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: MI-Pack
+Version: 2.0
+Summary: Metabolite Identification Package (MI-Pack)
+Home-page: http://www.biosciences.bham.ac.uk/labs/viant/
+Author: Ralf Weber, Mark Viant
+Author-email: weberrj@bham.ac.uk, m.viant@bham.ac.uk
+License: GPL
+Description: MI-Pack - Metabolite Identification Package
+Keywords: Metabolomics,Mass spectrometry,metabolites,identification,Data mining,Mass errors
+Platform: Windows XP, UNIX
